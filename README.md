@@ -1,7 +1,7 @@
 # PythonProject
 파이썬 API 개발
 
-<h1 align="left">👋 Spring MVC 게시판 프로젝트</h1>
+<h1 align="left">👋 Python 프로젝트</h1>
 
 <h2 align="left">설명</h2>
 
