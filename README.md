@@ -15,7 +15,7 @@
 
 ###
 <div align="left">
- <p>(1) Java (2)Spring (3)JavaScript (4) Jquery (5)Mysql</p>
+ <p>Python , Django, PostGresql</p>
 
 ###
 
